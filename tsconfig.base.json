@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"moduleResolution": "node",
+		"noUnusedLocals": true,
+		"noUncheckedIndexedAccess": true,
+		"removeComments": true,
+		"skipLibCheck": true,
+		"sourceMap": false,
+		"strict": true,
+		"strictNullChecks": true,
+		"target": "ESNext"
+	},
+	"exclude": ["./node_modules/**"]
+}

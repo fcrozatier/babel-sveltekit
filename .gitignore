@@ -1,0 +1,11 @@
+dist
+build
+node_modules
+.vscode
+.DS_Store
+.svelte-kit
+.env
+.venv
+test-results/
+playwright-report/
+playwright/.cache/
